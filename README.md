@@ -1,1 +1,1 @@
-# nginx-for-openshift
+# Camunda-for-openshift
